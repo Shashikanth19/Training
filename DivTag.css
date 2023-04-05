@@ -1,0 +1,15 @@
+#firstdiv{
+    width: 100%;
+    height: 200px;
+    background-color: red;
+}
+#seconddiv{
+    width: 100%;;
+    height: 200px;
+    background-color: white;
+}
+#thirddiv{
+    width: 100%;
+    height: 200px;
+    background-color: green;
+}
